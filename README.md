@@ -37,7 +37,7 @@ https://t.me/antizapret_support
    ```
 1. Clone repository and start container:
    ```bash
-   git clone https://github.com/xtrime-ru/antizapret-vpn-docker.git antizapret
+   git clone https://github.com/mafia-cheb/antizapret-vpn-docker.git antizapret
    cd antizapret
    ```
 2. Create docker-compose.override.yml with services you need. Minimal example with only wireguard:
